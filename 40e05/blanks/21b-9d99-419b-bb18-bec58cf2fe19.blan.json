@@ -139,7 +139,7 @@
         "value": 0.0016291613643909556
     },
     "Ar37": {
-        "error": 0.0057362648486135705,
+        "error": 0.009088450483136256,
         "error_type": "",
         "fit": "Weighted Mean_SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
         "references": [
@@ -275,10 +275,10 @@
             }
         ],
         "reviewed": true,
-        "value": 0.02311662311367194
+        "value": 0.02461728912839346
     },
     "Ar38": {
-        "error": 0.005056716699856704,
+        "error": 0.14533756675735213,
         "error_type": "",
         "fit": "Weighted Mean_SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
         "references": [
@@ -414,7 +414,7 @@
             }
         ],
         "reviewed": true,
-        "value": 0.010165869897430721
+        "value": 0.0348777942530962
     },
     "Ar39": {
         "error": 0.020106046475433372,
