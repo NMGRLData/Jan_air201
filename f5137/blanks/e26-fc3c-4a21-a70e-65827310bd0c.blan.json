@@ -46,6 +46,11 @@
             },
             {
                 "exclude": "ok",
+                "record_id": "bu-FC-J-13367",
+                "uuid": "2b465224-b9bf-42f7-aae2-196df769a712"
+            },
+            {
+                "exclude": "ok",
                 "record_id": "bu-FC-J-13368",
                 "uuid": "6013c3f1-8063-4b4b-95ae-2758a1fdc32e"
             },
@@ -144,7 +149,7 @@
         "value": 0.0015333309928562916
     },
     "Ar37": {
-        "error": 0.0012945729268873168,
+        "error": 0.0012766114669263639,
         "error_type": "",
         "fit": "Weighted Mean_SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
         "references": [
@@ -187,6 +192,11 @@
                 "exclude": "ok",
                 "record_id": "ba-03-J-46",
                 "uuid": "53f88ef1-853c-406e-9146-7c05110b350f"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bu-FC-J-13367",
+                "uuid": "2b465224-b9bf-42f7-aae2-196df769a712"
             },
             {
                 "exclude": "ok",
@@ -285,10 +295,10 @@
             }
         ],
         "reviewed": true,
-        "value": 0.019776146246978155
+        "value": 0.01957465115193291
     },
     "Ar38": {
-        "error": 0.001573844280080899,
+        "error": 0.0015188605419407205,
         "error_type": "",
         "fit": "Weighted Mean_SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
         "references": [
@@ -331,6 +341,11 @@
                 "exclude": "ok",
                 "record_id": "ba-03-J-46",
                 "uuid": "53f88ef1-853c-406e-9146-7c05110b350f"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bu-FC-J-13367",
+                "uuid": "2b465224-b9bf-42f7-aae2-196df769a712"
             },
             {
                 "exclude": "ok",
@@ -429,10 +444,10 @@
             }
         ],
         "reviewed": true,
-        "value": 0.01099734102561957
+        "value": 0.010930831097887984
     },
     "Ar39": {
-        "error": 0.004234513377644128,
+        "error": 0.004167441649356107,
         "error_type": "",
         "fit": "Weighted Mean_SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
         "references": [
@@ -475,6 +490,11 @@
                 "exclude": "ok",
                 "record_id": "ba-03-J-46",
                 "uuid": "53f88ef1-853c-406e-9146-7c05110b350f"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bu-FC-J-13367",
+                "uuid": "2b465224-b9bf-42f7-aae2-196df769a712"
             },
             {
                 "exclude": "ok",
@@ -573,7 +593,7 @@
             }
         ],
         "reviewed": true,
-        "value": 0.02148649069379905
+        "value": 0.02183092996294061
     },
     "Ar40": {
         "error": 0.010445832483353802,
@@ -619,6 +639,11 @@
                 "exclude": "ok",
                 "record_id": "ba-03-J-46",
                 "uuid": "53f88ef1-853c-406e-9146-7c05110b350f"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "bu-FC-J-13367",
+                "uuid": "2b465224-b9bf-42f7-aae2-196df769a712"
             },
             {
                 "exclude": "ok",
